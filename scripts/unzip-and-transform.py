@@ -31,11 +31,8 @@ def delete_html(html_files):
 def move_directory_and_cleanup():
     source = paligo_folder + "/out/"
     destination = ".."
-    files_list = os.listdir(source)
-    for file in files_list:
-        shutil.move(paligo_folder + "/out/" + file, destination)
-    os.rmdir(paligo_folder + "/out")
-    os.rmdir(paligo_folder)
+    shutil.copytree(source, destination, dirs_exist_ok = True)    
+    shutil.rmtree(paligo_folder)
     os.remove(zipfile)
 
 # Variables
