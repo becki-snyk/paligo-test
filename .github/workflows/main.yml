@@ -28,3 +28,6 @@ jobs:
           pip install pandoc==2.2
           cd scripts
           python unzip-and-transform.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Commit Paligo files via GitHub Actions
