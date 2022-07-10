@@ -24,6 +24,7 @@ jobs:
           python-version: "3.7"
       - name: Install Pandoc and run script
         run: |
+          sudo apt-get install pandoc
           pip install pandoc==2.2
           cd scripts
           python unzip-and-transform.py
