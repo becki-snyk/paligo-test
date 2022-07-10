@@ -16,7 +16,7 @@ You can use Snyk to scan C / C++ projects.
 <div>
 
 ::: {.title}
-##### []{#idm46180810666576}Features {#features .title}
+##### []{#idm45880611992224}Features {#features .title}
 :::
 
 </div>
@@ -47,7 +47,7 @@ Some features may not be available, depending on your subscription plan.
 <div>
 
 ::: {.title}
-##### []{#idm46180810665648}How it works {#how-it-works .title}
+##### []{#idm45880611990496}How it works {#how-it-works .title}
 :::
 
 </div>
@@ -96,7 +96,7 @@ location, that location must be scanned.
 <div>
 
 ::: {.title}
-###### []{#idm46180810658720}Scanning archives {#scanning-archives .title}
+###### []{#idm45880611985632}Scanning archives {#scanning-archives .title}
 :::
 
 </div>
@@ -186,7 +186,7 @@ c-example
 <div>
 
 ::: {.title}
-###### []{#idm46180810649984}Data collection note {#data-collection-note .title}
+###### []{#idm45880611976672}Data collection note {#data-collection-note .title}
 :::
 
 </div>
@@ -231,7 +231,7 @@ stored for troubleshooting purposes:
 <div>
 
 ::: {.title}
-###### []{#idm46180810650176}Install the Snyk CLI {#install-the-snyk-cli .title}
+###### []{#idm45880611976864}Install the Snyk CLI {#install-the-snyk-cli .title}
 :::
 
 </div>
@@ -258,7 +258,7 @@ The minimum version of Snyk CLI with C/C++ scanning is 1.857.0.
 <div>
 
 ::: {.title}
-###### []{#idm46180810637136}Run the test {#run-the-test .title}
+###### []{#idm45880611963872}Run the test {#run-the-test .title}
 :::
 
 </div>
@@ -287,7 +287,7 @@ section for more details.
 <div>
 
 ::: {.title}
-###### []{#idm46180810634208}Displaying dependencies {#displaying-dependencies .title}
+###### []{#idm45880611960944}Displaying dependencies {#displaying-dependencies .title}
 :::
 
 </div>
@@ -330,7 +330,7 @@ Dependencies:
 <div>
 
 ::: {.title}
-###### []{#idm46180810630864}Understanding the confidence level {#understanding-the-confidence-level .title}
+###### []{#idm45880611957680}Understanding the confidence level {#understanding-the-confidence-level .title}
 :::
 
 </div>
@@ -362,7 +362,7 @@ source tree fully matched all the expected files in our database.
 <div>
 
 ::: {.title}
-###### []{#idm46180810627648}JSON output {#json-output .title}
+###### []{#idm45880611954464}JSON output {#json-output .title}
 :::
 
 </div>
@@ -482,7 +482,7 @@ commands:
 <div>
 
 ::: {.title}
-###### []{#idm46180810613264}ORG\_ID {#org_id .title}
+###### []{#idm45880611940016}ORG\_ID {#org_id .title}
 :::
 
 </div>
@@ -517,7 +517,7 @@ CLI](https://support.snyk.io/hc/en-us/articles/360000920738-How-to-select-the-or
 <div>
 
 ::: {.title}
-###### []{#idm46180810612832}json {#json .title}
+###### []{#idm45880611939584}json {#json .title}
 :::
 
 </div>
@@ -533,7 +533,7 @@ Prints results in JSON format.
 <div>
 
 ::: {.title}
-###### []{#idm46180810605600}OUTPUT\_FILE\_PATH {#output_file_path .title}
+###### []{#idm45880611932448}OUTPUT\_FILE\_PATH {#output_file_path .title}
 :::
 
 </div>
@@ -554,7 +554,7 @@ at the same time save the JSON format output to a file.
 <div>
 
 ::: {.title}
-###### []{#idm46180810603680}target-dir {#target-dir .title}
+###### []{#idm45880611930528}target-dir {#target-dir .title}
 :::
 
 </div>
@@ -581,7 +581,7 @@ Alternatively, you can run just
 <div>
 
 ::: {.title}
-###### []{#idm46180810601376}max-depth {#max-depth .title}
+###### []{#idm45880611928224}max-depth {#max-depth .title}
 :::
 
 </div>
@@ -598,7 +598,7 @@ disable archive extraction completely.
 <div>
 
 ::: {.title}
-###### []{#idm46180810598832}project-name {#project-name .title}
+###### []{#idm45880611925680}project-name {#project-name .title}
 :::
 
 </div>
@@ -616,7 +616,7 @@ desired name using the `--project-name`{.code} flag.
 <div>
 
 ::: {.title}
-###### []{#idm46180810596944}remote-repo-url {#remote-repo-url .title}
+###### []{#idm45880611923792}remote-repo-url {#remote-repo-url .title}
 :::
 
 </div>
@@ -633,7 +633,7 @@ monitor.
 <div>
 
 ::: {.title}
-###### []{#idm46180810594496}target-reference {#target-reference .title}
+###### []{#idm45880611921344}target-reference {#target-reference .title}
 :::
 
 </div>
@@ -706,7 +706,7 @@ Project with unmanaged dependencies
 <div>
 
 ::: {.title}
-###### []{#idm46180810576160}Scanning on Windows {#scanning-on-windows .title}
+###### []{#idm45880611903072}Scanning on Windows {#scanning-on-windows .title}
 :::
 
 </div>
@@ -746,7 +746,7 @@ git config --global core.autocrlf false
 <div>
 
 ::: {.title}
-###### []{#idm46180810569088}Is my source code sent to Snyk servers? {#is-my-source-code-sent-to-snyk-servers .title}
+###### []{#idm45880611896096}Is my source code sent to Snyk servers? {#is-my-source-code-sent-to-snyk-servers .title}
 :::
 
 </div>
@@ -761,7 +761,7 @@ scanning.
 <div>
 
 ::: {.title}
-###### []{#idm46180810568816}Why did Snyk not find any dependencies? {#why-did-snyk-not-find-any-dependencies .title}
+###### []{#idm45880611895728}Why did Snyk not find any dependencies? {#why-did-snyk-not-find-any-dependencies .title}
 :::
 
 </div>

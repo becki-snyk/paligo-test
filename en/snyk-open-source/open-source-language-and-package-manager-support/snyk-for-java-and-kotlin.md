@@ -17,7 +17,7 @@ both through your CLI and through different integrations from our UI.
 <div>
 
 ::: {.title}
-##### []{#idm46180810471616}Features {#features .title}
+##### []{#idm45880611798368}Features {#features .title}
 :::
 
 </div>
@@ -130,7 +130,7 @@ to test Gradle projects.
 <div>
 
 ::: {.title}
-##### []{#idm46180810470688}Supported versions {#supported-versions .title}
+##### []{#idm45880611797440}Supported versions {#supported-versions .title}
 :::
 
 </div>
@@ -182,7 +182,7 @@ to test Gradle projects.
 <div>
 
 ::: {.title}
-##### []{#idm46180810477040}Snyk CLI tool for Java and Kotlin projects (CI/CD) {#snyk-cli-tool-for-java-and-kotlin-projects-cicd .title}
+##### []{#idm45880611803888}Snyk CLI tool for Java and Kotlin projects (CI/CD) {#snyk-cli-tool-for-java-and-kotlin-projects-cicd .title}
 :::
 
 </div>
@@ -247,7 +247,7 @@ with Java-based projects as follows:
 <div>
 
 ::: {.title}
-###### []{#idm46180810418784}Snyk CLI parameters {#snyk-cli-parameters .title}
+###### []{#idm45880611745456}Snyk CLI parameters {#snyk-cli-parameters .title}
 :::
 
 </div>
@@ -302,7 +302,7 @@ following options to further refine the way the scan works:
 <div>
 
 ::: {.title}
-###### []{#idm46180810415104}Pass extra arguments directly to Gradle or Maven via Snyk CLI {#pass-extra-arguments-directly-to-gradle-or-maven-via-snyk-cli .title}
+###### []{#idm45880611741776}Pass extra arguments directly to Gradle or Maven via Snyk CLI {#pass-extra-arguments-directly-to-gradle-or-maven-via-snyk-cli .title}
 :::
 
 </div>
@@ -400,7 +400,7 @@ a separate Snyk project in the UI.
 <div>
 
 ::: {.title}
-###### []{#idm46180810389616}Configurations {#configurations .title}
+###### []{#idm45880611716240}Configurations {#configurations .title}
 :::
 
 </div>
@@ -461,7 +461,7 @@ To test a specific configuration:
 <div>
 
 ::: {.title}
-###### []{#idm46180810390864}Android build variants {#android-build-variants .title}
+###### []{#idm45880611717488}Android build variants {#android-build-variants .title}
 :::
 
 </div>
@@ -530,7 +530,7 @@ To avoid such conflicts:
 <div>
 
 ::: {.title}
-###### []{#idm46180810371872}Daemon {#daemon .title}
+###### []{#idm45880611698496}Daemon {#daemon .title}
 :::
 
 </div>
@@ -553,7 +553,7 @@ for any reason, you run into trouble, try this:
 <div>
 
 ::: {.title}
-###### []{#idm46180810390336}Lockfiles {#lockfiles .title}
+###### []{#idm45880611716960}Lockfiles {#lockfiles .title}
 :::
 
 </div>
@@ -588,7 +588,7 @@ necessary information to analyse your project/projects.
 <div>
 
 ::: {.title}
-###### []{#idm46180810355408}Support {#support .title}
+###### []{#idm45880611682032}Support {#support .title}
 :::
 
 </div>
