@@ -35,8 +35,8 @@ for details of Snyk Code support.
 | .linktextconsumer} (C\#, F\#,     |                                   |
 | Visual                            |                                   |
 | Basic)[[]{#UUID-00aaf89c-26ae-ab2 |                                   |
-| d-b714-b2f5887b9951_N62cb654fa678 |                                   |
-| 3}Snyk                            |                                   |
+| d-b714-b2f5887b9951_N62cb65c2613b |                                   |
+| 2}Snyk                            |                                   |
 | for .NET]{.linktextprovider       |                                   |
 | .linktextprovider                 |                                   |
 | style="display:none !important;"} |                                   |

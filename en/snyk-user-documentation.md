@@ -210,31 +210,3 @@ more details.
 For details of Snyk data handling, see [How Snyk handles your
 data](https://docs.snyk.io/more-info/how-snyk-handles-your-data){.link}.
 :::
-
-::: {.section dir="ltr"}
-::: {.titlepage}
-<div>
-
-::: {.title}
-### []{#UUID-9c59209e-cdb5-b414-c551-315a72c2dcd9_section-idm4613054453980833143470386017}Test {#test .title}
-:::
-
-</div>
-:::
-
-test
-:::
-
-::: {.section dir="ltr"}
-::: {.titlepage}
-<div>
-
-::: {.title}
-### []{#idm45880612385008}test subhead 2 {#test-subhead-2 .title}
-:::
-
-</div>
-:::
-
-test test
-:::
