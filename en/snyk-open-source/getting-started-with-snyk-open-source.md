@@ -40,7 +40,7 @@ This process describes getting started using the Snyk Web UI and a SCM
 <div>
 
 ::: {.title}
-#### []{#idm45481205492368}Prerequisites {#prerequisites .title}
+#### []{#idm45726182173984}Prerequisites {#prerequisites .title}
 :::
 
 </div>
@@ -67,7 +67,7 @@ Ensure you have:
 <div>
 
 ::: {.title}
-#### []{#idm45481205497184}Stage 1: Add source control integration {#stage-1-add-source-control-integration .title}
+#### []{#idm45726182177856}Stage 1: Add source control integration {#stage-1-add-source-control-integration .title}
 :::
 
 </div>
@@ -103,7 +103,7 @@ Choose a source code integration, to allow Snyk to work on a project.
 <div>
 
 ::: {.title}
-#### []{#idm45481205485536}Stage 2: Add Projects {#stage-2-add-projects .title}
+#### []{#idm45726182192368}Stage 2: Add Projects {#stage-2-add-projects .title}
 :::
 
 </div>
@@ -122,7 +122,7 @@ example GitHub).
 <div>
 
 ::: {.title}
-#### []{#idm45481205506288}Add a repo {#add-a-repo .title}
+#### []{#idm45726182161104}Add a repo {#add-a-repo .title}
 :::
 
 </div>
@@ -190,7 +190,7 @@ errors](https://support.snyk.io/hc/en-us/articles/360001373118){.link}.
 <div>
 
 ::: {.title}
-#### []{#idm45481205475744}Stage 3: View vulnerabilities {#stage-3-view-vulnerabilities .title}
+#### []{#idm45726182159328}Stage 3: View vulnerabilities {#stage-3-view-vulnerabilities .title}
 :::
 
 </div>
@@ -230,7 +230,7 @@ for more details.
 <div>
 
 ::: {.title}
-#### []{#idm45481205459040}Stage 4: Fix vulnerabilities {#stage-4-fix-vulnerabilities .title}
+#### []{#idm45726182188336}Stage 4: Fix vulnerabilities {#stage-4-fix-vulnerabilities .title}
 :::
 
 </div>
