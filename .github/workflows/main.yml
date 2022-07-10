@@ -22,8 +22,8 @@ jobs:
       - uses: actions/setup-python@v4.0.0
         with: 
           python-version: "3.7"
-      - name: Run Pandoc script
-      - run: |
+      - name: Install Pandoc and run script
+        run: |
           pip install pandoc==2.2
           cd scripts
           python unzip-and-transform.py
