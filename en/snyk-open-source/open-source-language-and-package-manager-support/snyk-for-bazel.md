@@ -42,7 +42,7 @@ The following describes how to use Snyk to test your Bazel projects.
 <div>
 
 ::: {.title}
-##### []{#idm45192790358640}Bazel Overview {#bazel-overview .title}
+##### []{#idm46180810734304}Bazel Overview {#bazel-overview .title}
 :::
 
 </div>
@@ -124,7 +124,7 @@ Graph Test API](https://github.com/snyk/dep-graph){.link}.
 <div>
 
 ::: {.title}
-##### []{#idm45192790364272}Snyk Dep Graph Test API {#snyk-dep-graph-test-api .title}
+##### []{#idm46180810724192}Snyk Dep Graph Test API {#snyk-dep-graph-test-api .title}
 :::
 
 </div>
@@ -151,7 +151,7 @@ can be tested via the API.
 <div>
 
 ::: {.title}
-##### []{#idm45192790344368}Snyk Dep Graph JSON Syntax {#snyk-dep-graph-json-syntax .title}
+##### []{#idm46180810718464}Snyk Dep Graph JSON Syntax {#snyk-dep-graph-json-syntax .title}
 :::
 
 </div>
@@ -241,7 +241,7 @@ object:
 <div>
 
 ::: {.title}
-##### []{#idm45192790366432}Snyk Dep Graph Test API Response {#snyk-dep-graph-test-api-response .title}
+##### []{#idm46180810740272}Snyk Dep Graph Test API Response {#snyk-dep-graph-test-api-response .title}
 :::
 
 </div>
@@ -364,7 +364,7 @@ object:
 <div>
 
 ::: {.title}
-##### []{#idm45192790366112}Examples {#examples .title}
+##### []{#idm46180810747008}Examples {#examples .title}
 :::
 
 </div>

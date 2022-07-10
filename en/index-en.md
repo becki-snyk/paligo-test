@@ -15,7 +15,7 @@ Copyright ©
 <div>
 
 ::: {.legalnotice}
-[]{#idm45192791948736}
+[]{#idm46180812308192}
 :::
 
 </div>
@@ -80,7 +80,7 @@ data?](snyk-user-documentation.html#UUID-9c59209e-cdb5-b414-c551-315a72c2dcd9_UU
 [Test](snyk-user-documentation.html#UUID-9c59209e-cdb5-b414-c551-315a72c2dcd9_section-idm4613054453980833143470386017)
 ]{.section}
 
-[ [test subhead 2](snyk-user-documentation.html#idm45192790683792)
+[ [test subhead 2](snyk-user-documentation.html#idm46180811058080)
 ]{.section}
 
 [ [Snyk Open Source](snyk-open-source.html) ]{.section}
@@ -89,7 +89,7 @@ data?](snyk-user-documentation.html#UUID-9c59209e-cdb5-b414-c551-315a72c2dcd9_UU
 vulnerabilities](snyk-open-source.html#UUID-554d94bb-65ab-0c72-a8ef-4b2fb4618534_UUID-03f9d2de-99e8-fa77-dde4-cf2857d963e0)
 ]{.section}
 
-[ [Find and fix license issues](snyk-open-source.html#idm45192790661344)
+[ [Find and fix license issues](snyk-open-source.html#idm46180811035632)
 ]{.section}
 
 [ [Getting started with Snyk Open
@@ -97,27 +97,27 @@ Source](snyk-open-source/getting-started-with-snyk-open-source.html)
 ]{.section}
 
 [
-[Prerequisites](snyk-open-source/getting-started-with-snyk-open-source.html#idm45192790636096)
+[Prerequisites](snyk-open-source/getting-started-with-snyk-open-source.html#idm46180811010128)
 ]{.section}
 
 [ [Stage 1: Add source control
-integration](snyk-open-source/getting-started-with-snyk-open-source.html#idm45192790640656)
+integration](snyk-open-source/getting-started-with-snyk-open-source.html#idm46180811014752)
 ]{.section}
 
 [ [Stage 2: Add
-Projects](snyk-open-source/getting-started-with-snyk-open-source.html#idm45192790667920)
+Projects](snyk-open-source/getting-started-with-snyk-open-source.html#idm46180811042208)
 ]{.section}
 
 [ [Add a
-repo](snyk-open-source/getting-started-with-snyk-open-source.html#idm45192790622272)
+repo](snyk-open-source/getting-started-with-snyk-open-source.html#idm46180810996368)
 ]{.section}
 
 [ [Stage 3: View
-vulnerabilities](snyk-open-source/getting-started-with-snyk-open-source.html#idm45192790619664)
+vulnerabilities](snyk-open-source/getting-started-with-snyk-open-source.html#idm46180810993760)
 ]{.section}
 
 [ [Stage 4: Fix
-vulnerabilities](snyk-open-source/getting-started-with-snyk-open-source.html#idm45192790675728)
+vulnerabilities](snyk-open-source/getting-started-with-snyk-open-source.html#idm46180811050016)
 ]{.section}
 
 [ [Open Source basics](snyk-open-source/open-source-basics.html)

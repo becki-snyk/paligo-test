@@ -1,183 +1,183 @@
-[11/Jul/2022 00:07:49 Europe/Dublin] [Info] ############################################################
-[11/Jul/2022 00:07:49 Europe/Dublin] [Info] # Output Factory initiated (html)
-[11/Jul/2022 00:07:49 Europe/Dublin] [Info] # Building output for: Snyk User Docs
-[11/Jul/2022 00:07:49 Europe/Dublin] [Info] # URL /document/edit/317
-[11/Jul/2022 00:07:49 Europe/Dublin] [Info] # User: Becki Lee
-[11/Jul/2022 00:07:49 Europe/Dublin] [Info] # Time: Mon, 11 Jul 2022 00:07:49 +0100
-[11/Jul/2022 00:07:49 Europe/Dublin] [Info] # Server: bordeaux
-[11/Jul/2022 00:07:49 Europe/Dublin] [Info] ############################################################
-[11/Jul/2022 00:07:49 Europe/Dublin] [Info] Group: custom
-[11/Jul/2022 00:07:49 Europe/Dublin] [Info] Type: html
-[11/Jul/2022 00:07:49 Europe/Dublin] [Info] Transformation: /var/www/ccms/usr/snyk2/xsl/custom/layout-8531.xsl
-[11/Jul/2022 00:07:50 Europe/Dublin] [Info] File found: /var/www/ccms/usr/snyk2/xsl/custom/layout-8531.xsl
-[11/Jul/2022 00:07:50 Europe/Dublin] [Info] ############################################################
-[11/Jul/2022 00:07:50 Europe/Dublin] [Info] Building output for: html
-[11/Jul/2022 00:07:50 Europe/Dublin] [Info] Using stylesheet: /var/www/ccms/usr/snyk2/xsl/custom/layout-8531.xsl
-[11/Jul/2022 00:07:50 Europe/Dublin] [Info] Parameters for this build: (array) []
-[11/Jul/2022 00:07:50 Europe/Dublin] [Info] Environment variables for this build: (array) []
-[11/Jul/2022 00:07:50 Europe/Dublin] [Info] Building output for languages: (array) ["en"]
-[11/Jul/2022 00:07:50 Europe/Dublin] [Info] Building multilang: no
-[11/Jul/2022 00:07:50 Europe/Dublin] [Info] Building preview: no
-[11/Jul/2022 00:07:50 Europe/Dublin] [Info] ############################################################
-[11/Jul/2022 00:07:50 Europe/Dublin] [Info] Using build directory: /paligo/tmp/snyk2/production-62cb5bc4ad0fb1.94346777/317-Snyk_User_Docs-html
-[11/Jul/2022 00:07:51 Europe/Dublin] [Info] -- Generating source files
-[11/Jul/2022 00:07:51 Europe/Dublin] [Info] -- Propagating taxonomies: false
-[11/Jul/2022 00:07:51 Europe/Dublin] [Info] -- Source files have been generated
-[11/Jul/2022 00:07:51 Europe/Dublin] [Info] -- Publication has no unresolved dependencies.
-[11/Jul/2022 00:07:51 Europe/Dublin] [Info] -- Generating source files complete.
-[11/Jul/2022 00:07:52 Europe/Dublin] [Info] Localizing: publication-317.xml
-[11/Jul/2022 00:07:52 Europe/Dublin] [Info] Language: en
-[11/Jul/2022 00:07:52 Europe/Dublin] [Warning] Resolving some links failed
-[11/Jul/2022 00:07:52 Europe/Dublin] [Info] [/*/*[3]/*[9]/*[4]/*[2]/*[1]/*[1]/*/*] An outgoing link in <a href="/document/edit/3755">Open Source language and package manager support</a> could not be resolved. The link points to <a href="/document/edit/3787">Snyk for .NET</a> which is not part of this publication.
-[11/Jul/2022 00:07:52 Europe/Dublin] [Info] Variable sets found: 0
-[11/Jul/2022 00:07:53 Europe/Dublin] [Info] Inserting image links.
-[11/Jul/2022 00:07:53 Europe/Dublin] [Info] Found 14 image(s).
-[11/Jul/2022 00:07:53 Europe/Dublin] [Info] Found image 'introduction-slide.png'
-[11/Jul/2022 00:07:54 Europe/Dublin] [Info] Found image 'open-source-add-repo.png'
-[11/Jul/2022 00:07:54 Europe/Dublin] [Info] Found image 'open-source-status-message.png'
-[11/Jul/2022 00:07:54 Europe/Dublin] [Info] Found image 'projects-import.png'
-[11/Jul/2022 00:07:54 Europe/Dublin] [Info] Found image 'project-details.png'
-[11/Jul/2022 00:07:54 Europe/Dublin] [Info] Found image 'Issues-view.png'
-[11/Jul/2022 00:07:54 Europe/Dublin] [Info] Found image 'files-changed.png'
-[11-Jul-2022 00:07:54 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
-[11/Jul/2022 00:07:54 Europe/Dublin] [Info] Found image 'ID: '
-[11-Jul-2022 00:07:54 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
-[11-Jul-2022 00:07:54 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
-[11-Jul-2022 00:07:54 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
-[11/Jul/2022 00:07:54 Europe/Dublin] [Info] Found image 'ID: '
-[11-Jul-2022 00:07:54 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
-[11-Jul-2022 00:07:54 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
-[11-Jul-2022 00:07:54 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
-[11/Jul/2022 00:07:54 Europe/Dublin] [Info] Found image 'ID: '
-[11-Jul-2022 00:07:54 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
-[11-Jul-2022 00:07:54 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
-[11-Jul-2022 00:07:54 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
-[11/Jul/2022 00:07:54 Europe/Dublin] [Info] Found image 'ID: '
-[11-Jul-2022 00:07:54 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
-[11-Jul-2022 00:07:54 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
-[11-Jul-2022 00:07:54 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
-[11/Jul/2022 00:07:54 Europe/Dublin] [Info] Found image 'ID: '
-[11-Jul-2022 00:07:54 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
-[11-Jul-2022 00:07:54 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
-[11/Jul/2022 00:07:54 Europe/Dublin] [Info] Found image 'c-example.png'
-[11/Jul/2022 00:07:54 Europe/Dublin] [Info] Found image 'cog_icon.png'
-[11/Jul/2022 00:07:55 Europe/Dublin] [Info] Profiling parameters: (array) []
-[11/Jul/2022 00:07:55 Europe/Dublin] [Info] Profiling customisation: /var/www/ccms/usr/snyk2/xsl/profile.xsl (not found)
-[11/Jul/2022 00:07:55 Europe/Dublin] [Info] Transformation: publication-317--en.org.xml -> publication-317--en.xml [profile.xsl]
-[11/Jul/2022 00:07:55 Europe/Dublin] [Info] Transformation: publication-317--en.xml -> publication-317--en.xml [internal-xref.xsl]
-[11/Jul/2022 00:07:55 Europe/Dublin] [Info] Transformation: A-filelist.xml -> B-sorted.xml [IO.document.sortlang.xsl]
-[11/Jul/2022 00:07:55 Europe/Dublin] [Info] Transformation: B-sorted.xml -> C-concatenated.xml [IO.document.concat.xsl]
-[11/Jul/2022 00:07:55 Europe/Dublin] [Info] Transformation: B-sorted.xml -> index-en.xml [IO.document.head.xsl]
-[11/Jul/2022 00:07:56 Europe/Dublin] [Info] Image copied: en/image/uuid-b25f28ec-3b5b-473e-4f1e-7ff3b694f7f1.png
-[11/Jul/2022 00:07:56 Europe/Dublin] [Info] Image copied: en/image/uuid-a375df8c-c085-3c25-19c0-779404564871.png
-[11/Jul/2022 00:07:56 Europe/Dublin] [Info] Image copied: en/image/uuid-3bcfadda-514e-ec61-014c-87dced9ccd6b.png
-[11/Jul/2022 00:07:56 Europe/Dublin] [Info] Image copied: en/image/uuid-5065efcc-b8ba-14b6-3409-f8afd7c806db.png
-[11/Jul/2022 00:07:56 Europe/Dublin] [Info] Image copied: en/image/uuid-d19aae49-27bc-ee2d-d3e5-77283988c49f.png
-[11/Jul/2022 00:07:56 Europe/Dublin] [Info] Image copied: en/image/uuid-75a3c01e-e70b-5e6a-bcf0-f05740a9ea59.png
-[11/Jul/2022 00:07:56 Europe/Dublin] [Info] Image copied: en/image/uuid-240611de-61d8-cb02-51e7-9a61f4d453ec.png
-[11/Jul/2022 00:07:56 Europe/Dublin] [Warning] copy(): The first argument to copy() function cannot be a directory in /var/www/ccms/application/lib/docbook/include/class.html.php on line 397
-[11/Jul/2022 00:07:56 Europe/Dublin] [Info] Image copied: en/
-[11/Jul/2022 00:07:56 Europe/Dublin] [Info] Image copied: en/image/image-missing.png
-[11/Jul/2022 00:07:56 Europe/Dublin] [Info] Image copied: en/image/uuid-50daa495-7e8f-4b39-0dc2-0829886b97e7.png
-[11/Jul/2022 00:07:56 Europe/Dublin] [Info] Image copied: en/image/uuid-3408a45a-8e5a-70aa-7e67-796708f1364e.png
-[11-Jul-2022 00:07:56 Europe/Dublin] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, fonts/*
-[11-Jul-2022 00:07:56 Europe/Dublin] Filename: css/*
-[11-Jul-2022 00:07:56 Europe/Dublin] Source directory: /var/www/ccms/application/lib/docbook/xsl/html
-[11-Jul-2022 00:07:56 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb5bc4ad0fb1.94346777/317-Snyk_User_Docs-html/out
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file 'style.css'
-[11-Jul-2022 00:07:56 Europe/Dublin] Filename: css/image/*
-[11-Jul-2022 00:07:56 Europe/Dublin] Source directory: /var/www/ccms/application/lib/docbook/xsl/html
-[11-Jul-2022 00:07:56 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb5bc4ad0fb1.94346777/317-Snyk_User_Docs-html/out
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file 'caution.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file 'danger.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file 'important.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file 'note.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file 'notice.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file 'tip.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file 'warning.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Filename: css/image/callouts/*
-[11-Jul-2022 00:07:56 Europe/Dublin] Source directory: /var/www/ccms/application/lib/docbook/xsl/html
-[11-Jul-2022 00:07:56 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb5bc4ad0fb1.94346777/317-Snyk_User_Docs-html/out
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '1.gif'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '1.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '1.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '10.gif'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '10.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '10.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '11.gif'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '11.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '11.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '12.gif'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '12.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '12.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '13.gif'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '13.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '13.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '14.gif'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '14.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '14.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '15.gif'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '15.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '15.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '16.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '17.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '18.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '19.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '2.gif'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '2.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '2.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '20.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '21.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '22.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '23.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '24.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '25.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '26.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '27.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '28.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '29.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '3.gif'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '3.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '3.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '30.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '4.gif'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '4.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '4.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '5.gif'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '5.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '5.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '6.gif'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '6.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '6.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '7.gif'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '7.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '7.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '8.gif'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '8.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '8.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '9.gif'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '9.png'
-[11-Jul-2022 00:07:56 Europe/Dublin] Copy file '9.svg'
-[11-Jul-2022 00:07:56 Europe/Dublin] Filename: js/*
-[11-Jul-2022 00:07:56 Europe/Dublin] Source directory: /var/www/ccms/application/lib/docbook/xsl/html
-[11-Jul-2022 00:07:56 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb5bc4ad0fb1.94346777/317-Snyk_User_Docs-html/out
-[11-Jul-2022 00:07:56 Europe/Dublin] Filename: fonts/*
-[11-Jul-2022 00:07:56 Europe/Dublin] Source directory: /var/www/ccms/application/lib/docbook/xsl/html
-[11-Jul-2022 00:07:56 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb5bc4ad0fb1.94346777/317-Snyk_User_Docs-html/out
-[11-Jul-2022 00:07:56 Europe/Dublin] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, fonts/*
-[11-Jul-2022 00:07:56 Europe/Dublin] Filename: css/*
-[11-Jul-2022 00:07:56 Europe/Dublin] Source directory: /var/www/ccms/usr/snyk2/xsl/custom
-[11-Jul-2022 00:07:56 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb5bc4ad0fb1.94346777/317-Snyk_User_Docs-html/out
-[11-Jul-2022 00:07:56 Europe/Dublin] Filename: css/image/*
-[11-Jul-2022 00:07:56 Europe/Dublin] Source directory: /var/www/ccms/usr/snyk2/xsl/custom
-[11-Jul-2022 00:07:56 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb5bc4ad0fb1.94346777/317-Snyk_User_Docs-html/out
-[11-Jul-2022 00:07:56 Europe/Dublin] Filename: css/image/callouts/*
-[11-Jul-2022 00:07:56 Europe/Dublin] Source directory: /var/www/ccms/usr/snyk2/xsl/custom
-[11-Jul-2022 00:07:56 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb5bc4ad0fb1.94346777/317-Snyk_User_Docs-html/out
-[11-Jul-2022 00:07:56 Europe/Dublin] Filename: js/*
-[11-Jul-2022 00:07:56 Europe/Dublin] Source directory: /var/www/ccms/usr/snyk2/xsl/custom
-[11-Jul-2022 00:07:56 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb5bc4ad0fb1.94346777/317-Snyk_User_Docs-html/out
-[11-Jul-2022 00:07:56 Europe/Dublin] Filename: fonts/*
-[11-Jul-2022 00:07:56 Europe/Dublin] Source directory: /var/www/ccms/usr/snyk2/xsl/custom
-[11-Jul-2022 00:07:56 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb5bc4ad0fb1.94346777/317-Snyk_User_Docs-html/out
-[11/Jul/2022 00:07:57 Europe/Dublin] [Info] # Took 7.428587 seconds to render.
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] ############################################################
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] # Output Factory initiated (html)
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] # Building output for: Snyk User Docs
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] # URL /document/edit/317
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] # User: Becki Lee
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] # Time: Mon, 11 Jul 2022 00:26:54 +0100
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] # Server: bordeaux
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] ############################################################
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] Group: custom
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] Type: html
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] Transformation: /var/www/ccms/usr/snyk2/xsl/custom/layout-8531.xsl
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] File found: /var/www/ccms/usr/snyk2/xsl/custom/layout-8531.xsl
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] ############################################################
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] Building output for: html
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] Using stylesheet: /var/www/ccms/usr/snyk2/xsl/custom/layout-8531.xsl
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] Parameters for this build: (array) []
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] Environment variables for this build: (array) []
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] Building output for languages: (array) ["en"]
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] Building multilang: no
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] Building preview: no
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] ############################################################
+[11/Jul/2022 00:26:54 Europe/Dublin] [Info] Using build directory: /paligo/tmp/snyk2/production-62cb603cd02b12.01161993/317-Snyk_User_Docs-html
+[11/Jul/2022 00:26:55 Europe/Dublin] [Info] -- Generating source files
+[11/Jul/2022 00:26:55 Europe/Dublin] [Info] -- Propagating taxonomies: false
+[11/Jul/2022 00:26:55 Europe/Dublin] [Info] -- Source files have been generated
+[11/Jul/2022 00:26:55 Europe/Dublin] [Info] -- Publication has no unresolved dependencies.
+[11/Jul/2022 00:26:55 Europe/Dublin] [Info] -- Generating source files complete.
+[11/Jul/2022 00:26:56 Europe/Dublin] [Info] Localizing: publication-317.xml
+[11/Jul/2022 00:26:56 Europe/Dublin] [Info] Language: en
+[11/Jul/2022 00:26:56 Europe/Dublin] [Warning] Resolving some links failed
+[11/Jul/2022 00:26:56 Europe/Dublin] [Info] [/*/*[3]/*[9]/*[4]/*[2]/*[1]/*[1]/*/*] An outgoing link in <a href="/document/edit/3755">Open Source language and package manager support</a> could not be resolved. The link points to <a href="/document/edit/3787">Snyk for .NET</a> which is not part of this publication.
+[11/Jul/2022 00:26:57 Europe/Dublin] [Info] Variable sets found: 0
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Inserting image links.
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Found 14 image(s).
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Found image 'introduction-slide.png'
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Found image 'open-source-add-repo.png'
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Found image 'open-source-status-message.png'
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Found image 'projects-import.png'
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Found image 'project-details.png'
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Found image 'Issues-view.png'
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Found image 'files-changed.png'
+[11-Jul-2022 00:26:58 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Found image 'ID: '
+[11-Jul-2022 00:26:58 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
+[11-Jul-2022 00:26:58 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
+[11-Jul-2022 00:26:58 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Found image 'ID: '
+[11-Jul-2022 00:26:58 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
+[11-Jul-2022 00:26:58 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
+[11-Jul-2022 00:26:58 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Found image 'ID: '
+[11-Jul-2022 00:26:58 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
+[11-Jul-2022 00:26:58 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
+[11-Jul-2022 00:26:58 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Found image 'ID: '
+[11-Jul-2022 00:26:58 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
+[11-Jul-2022 00:26:58 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
+[11-Jul-2022 00:26:58 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Found image 'ID: '
+[11-Jul-2022 00:26:58 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
+[11-Jul-2022 00:26:58 Europe/Dublin] [snyk2.paligoapp.com] Info: Method 'value' called on missing resource. 
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Found image 'c-example.png'
+[11/Jul/2022 00:26:58 Europe/Dublin] [Info] Found image 'cog_icon.png'
+[11/Jul/2022 00:26:59 Europe/Dublin] [Info] Profiling parameters: (array) []
+[11/Jul/2022 00:26:59 Europe/Dublin] [Info] Profiling customisation: /var/www/ccms/usr/snyk2/xsl/profile.xsl (not found)
+[11/Jul/2022 00:26:59 Europe/Dublin] [Info] Transformation: publication-317--en.org.xml -> publication-317--en.xml [profile.xsl]
+[11/Jul/2022 00:26:59 Europe/Dublin] [Info] Transformation: publication-317--en.xml -> publication-317--en.xml [internal-xref.xsl]
+[11/Jul/2022 00:26:59 Europe/Dublin] [Info] Transformation: A-filelist.xml -> B-sorted.xml [IO.document.sortlang.xsl]
+[11/Jul/2022 00:26:59 Europe/Dublin] [Info] Transformation: B-sorted.xml -> C-concatenated.xml [IO.document.concat.xsl]
+[11/Jul/2022 00:26:59 Europe/Dublin] [Info] Transformation: B-sorted.xml -> index-en.xml [IO.document.head.xsl]
+[11/Jul/2022 00:27:00 Europe/Dublin] [Info] Image copied: en/image/uuid-b25f28ec-3b5b-473e-4f1e-7ff3b694f7f1.png
+[11/Jul/2022 00:27:00 Europe/Dublin] [Info] Image copied: en/image/uuid-a375df8c-c085-3c25-19c0-779404564871.png
+[11/Jul/2022 00:27:00 Europe/Dublin] [Info] Image copied: en/image/uuid-3bcfadda-514e-ec61-014c-87dced9ccd6b.png
+[11/Jul/2022 00:27:00 Europe/Dublin] [Info] Image copied: en/image/uuid-5065efcc-b8ba-14b6-3409-f8afd7c806db.png
+[11/Jul/2022 00:27:00 Europe/Dublin] [Info] Image copied: en/image/uuid-d19aae49-27bc-ee2d-d3e5-77283988c49f.png
+[11/Jul/2022 00:27:00 Europe/Dublin] [Info] Image copied: en/image/uuid-75a3c01e-e70b-5e6a-bcf0-f05740a9ea59.png
+[11/Jul/2022 00:27:00 Europe/Dublin] [Info] Image copied: en/image/uuid-240611de-61d8-cb02-51e7-9a61f4d453ec.png
+[11/Jul/2022 00:27:00 Europe/Dublin] [Warning] copy(): The first argument to copy() function cannot be a directory in /var/www/ccms/application/lib/docbook/include/class.html.php on line 397
+[11/Jul/2022 00:27:00 Europe/Dublin] [Info] Image copied: en/
+[11/Jul/2022 00:27:00 Europe/Dublin] [Info] Image copied: en/image/image-missing.png
+[11/Jul/2022 00:27:00 Europe/Dublin] [Info] Image copied: en/image/uuid-50daa495-7e8f-4b39-0dc2-0829886b97e7.png
+[11/Jul/2022 00:27:00 Europe/Dublin] [Info] Image copied: en/image/uuid-3408a45a-8e5a-70aa-7e67-796708f1364e.png
+[11-Jul-2022 00:27:00 Europe/Dublin] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, fonts/*
+[11-Jul-2022 00:27:00 Europe/Dublin] Filename: css/*
+[11-Jul-2022 00:27:00 Europe/Dublin] Source directory: /var/www/ccms/application/lib/docbook/xsl/html
+[11-Jul-2022 00:27:00 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb603cd02b12.01161993/317-Snyk_User_Docs-html/out
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file 'style.css'
+[11-Jul-2022 00:27:00 Europe/Dublin] Filename: css/image/*
+[11-Jul-2022 00:27:00 Europe/Dublin] Source directory: /var/www/ccms/application/lib/docbook/xsl/html
+[11-Jul-2022 00:27:00 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb603cd02b12.01161993/317-Snyk_User_Docs-html/out
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file 'caution.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file 'danger.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file 'important.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file 'note.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file 'notice.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file 'tip.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file 'warning.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Filename: css/image/callouts/*
+[11-Jul-2022 00:27:00 Europe/Dublin] Source directory: /var/www/ccms/application/lib/docbook/xsl/html
+[11-Jul-2022 00:27:00 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb603cd02b12.01161993/317-Snyk_User_Docs-html/out
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '1.gif'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '1.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '1.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '10.gif'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '10.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '10.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '11.gif'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '11.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '11.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '12.gif'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '12.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '12.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '13.gif'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '13.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '13.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '14.gif'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '14.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '14.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '15.gif'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '15.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '15.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '16.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '17.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '18.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '19.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '2.gif'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '2.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '2.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '20.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '21.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '22.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '23.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '24.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '25.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '26.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '27.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '28.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '29.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '3.gif'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '3.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '3.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '30.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '4.gif'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '4.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '4.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '5.gif'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '5.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '5.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '6.gif'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '6.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '6.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '7.gif'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '7.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '7.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '8.gif'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '8.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '8.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '9.gif'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '9.png'
+[11-Jul-2022 00:27:00 Europe/Dublin] Copy file '9.svg'
+[11-Jul-2022 00:27:00 Europe/Dublin] Filename: js/*
+[11-Jul-2022 00:27:00 Europe/Dublin] Source directory: /var/www/ccms/application/lib/docbook/xsl/html
+[11-Jul-2022 00:27:00 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb603cd02b12.01161993/317-Snyk_User_Docs-html/out
+[11-Jul-2022 00:27:00 Europe/Dublin] Filename: fonts/*
+[11-Jul-2022 00:27:00 Europe/Dublin] Source directory: /var/www/ccms/application/lib/docbook/xsl/html
+[11-Jul-2022 00:27:00 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb603cd02b12.01161993/317-Snyk_User_Docs-html/out
+[11-Jul-2022 00:27:00 Europe/Dublin] Parsing manifest file: css/*, css/image/*, css/image/callouts/*, js/*, fonts/*
+[11-Jul-2022 00:27:00 Europe/Dublin] Filename: css/*
+[11-Jul-2022 00:27:00 Europe/Dublin] Source directory: /var/www/ccms/usr/snyk2/xsl/custom
+[11-Jul-2022 00:27:00 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb603cd02b12.01161993/317-Snyk_User_Docs-html/out
+[11-Jul-2022 00:27:00 Europe/Dublin] Filename: css/image/*
+[11-Jul-2022 00:27:00 Europe/Dublin] Source directory: /var/www/ccms/usr/snyk2/xsl/custom
+[11-Jul-2022 00:27:00 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb603cd02b12.01161993/317-Snyk_User_Docs-html/out
+[11-Jul-2022 00:27:00 Europe/Dublin] Filename: css/image/callouts/*
+[11-Jul-2022 00:27:00 Europe/Dublin] Source directory: /var/www/ccms/usr/snyk2/xsl/custom
+[11-Jul-2022 00:27:00 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb603cd02b12.01161993/317-Snyk_User_Docs-html/out
+[11-Jul-2022 00:27:00 Europe/Dublin] Filename: js/*
+[11-Jul-2022 00:27:00 Europe/Dublin] Source directory: /var/www/ccms/usr/snyk2/xsl/custom
+[11-Jul-2022 00:27:00 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb603cd02b12.01161993/317-Snyk_User_Docs-html/out
+[11-Jul-2022 00:27:00 Europe/Dublin] Filename: fonts/*
+[11-Jul-2022 00:27:00 Europe/Dublin] Source directory: /var/www/ccms/usr/snyk2/xsl/custom
+[11-Jul-2022 00:27:00 Europe/Dublin] Target directory: /paligo/tmp/snyk2/production-62cb603cd02b12.01161993/317-Snyk_User_Docs-html/out
+[11/Jul/2022 00:27:01 Europe/Dublin] [Info] # Took 7.367933 seconds to render.

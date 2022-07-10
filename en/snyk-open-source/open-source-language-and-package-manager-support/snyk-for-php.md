@@ -19,7 +19,7 @@ The following describes how to use Snyk to scan your PHP projects:
 <div>
 
 ::: {.title}
-##### []{#idm45192789809840}Features {#features .title}
+##### []{#idm46180810190672}Features {#features .title}
 :::
 
 </div>
@@ -58,7 +58,7 @@ Features might not be available, depending on your subscription plan.
 <div>
 
 ::: {.title}
-##### []{#idm45192789810512}How it works {#how-it-works .title}
+##### []{#idm46180810188944}How it works {#how-it-works .title}
 :::
 
 </div>
@@ -149,7 +149,7 @@ analyze the dependencies and their versions.
 <div>
 
 ::: {.title}
-###### []{#idm45192789793600}Parameters {#parameters .title}
+###### []{#idm46180810167936}Parameters {#parameters .title}
 :::
 
 </div>

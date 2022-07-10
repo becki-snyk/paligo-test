@@ -34,7 +34,7 @@ url=\"../../../features/fixing-and-prioritizing-issues/starting-to-fix-vulnerabi
 <div>
 
 ::: {.title}
-##### []{#idm45192790550192}Automatic pull / merge requests {#automatic-pull-merge-requests .title}
+##### []{#idm46180810921584}Automatic pull / merge requests {#automatic-pull-merge-requests .title}
 :::
 
 </div>
@@ -61,7 +61,7 @@ following types of automated pull / merge requests:
 <div>
 
 ::: {.title}
-##### []{#idm45192790547280}Manual pull / merge requests for a project code {#manual-pull-merge-requests-for-a-project-code .title}
+##### []{#idm46180810923680}Manual pull / merge requests for a project code {#manual-pull-merge-requests-for-a-project-code .title}
 :::
 
 </div>
