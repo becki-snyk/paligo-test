@@ -21,7 +21,7 @@ The following describes how to use Snyk to scan your Go projects:
 <div>
 
 ::: {.title}
-##### []{#idm45417500847248}Features {#features .title}
+##### []{#idm45877869617168}Features {#features .title}
 :::
 
 </div>
@@ -68,7 +68,7 @@ Features might not be available, depending on your subscription plan.
 <div>
 
 ::: {.title}
-##### []{#idm45417500841920}How it works {#how-it-works .title}
+##### []{#idm45877869614080}How it works {#how-it-works .title}
 :::
 
 </div>
@@ -98,7 +98,7 @@ of your project.
 <div>
 
 ::: {.title}
-##### []{#idm45417500876128}Snyk CLI tool for Go projects {#snyk-cli-tool-for-go-projects .title}
+##### []{#idm45877869648160}Snyk CLI tool for Go projects {#snyk-cli-tool-for-go-projects .title}
 :::
 
 </div>
@@ -157,7 +157,7 @@ be installed, run `govendor sync`{.code} to achieve this.
 <div>
 
 ::: {.title}
-##### []{#idm45417500831824}Git services for Go projects {#git-services-for-go-projects .title}
+##### []{#idm45877869604544}Git services for Go projects {#git-services-for-go-projects .title}
 :::
 
 </div>

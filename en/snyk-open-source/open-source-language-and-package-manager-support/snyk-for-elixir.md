@@ -13,7 +13,7 @@ Snyk offers security scanning to test your Elixir projects for
 vulnerabilities using the CLI.
 
 ::: {.table .table-responsive}
-[]{#idm45417500878032}
+[]{#idm45877869650112}
 
 **Table 1. Features**
 
@@ -41,7 +41,7 @@ vulnerabilities using the CLI.
 <div>
 
 ::: {.title}
-##### []{#idm45417500874032}How it works {#how-it-works .title}
+##### []{#idm45877869646400}How it works {#how-it-works .title}
 :::
 
 </div>
@@ -60,7 +60,7 @@ packages anywhere in the dependency tree.
 <div>
 
 ::: {.title}
-##### []{#idm45417500989952}Snyk CLI tool for Elixir projects {#snyk-cli-tool-for-elixir-projects .title}
+##### []{#idm45877869649024}Snyk CLI tool for Elixir projects {#snyk-cli-tool-for-elixir-projects .title}
 :::
 
 </div>
