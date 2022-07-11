@@ -37,7 +37,7 @@ def move_directory_and_cleanup():
 
 # Variables
 paligo_folder = "../317-Snyk_User_Docs-html"
-zipfile = paligo_folder + ".zip"
+zipfile = "../317-Snyk_User_Docs-html_-Export_to_GitHub.zip"
 
 # Unzip HTML, convert to Markdown, move to root, delete unneeded files
 def main():
