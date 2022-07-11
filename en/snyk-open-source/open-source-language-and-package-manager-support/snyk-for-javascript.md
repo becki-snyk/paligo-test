@@ -16,7 +16,7 @@ You can use Snyk to scan your JavaScript projects.
 <div>
 
 ::: {.title}
-##### []{#idm45726181463520}Features {#features .title}
+##### []{#idm45417500622048}Features {#features .title}
 :::
 
 </div>
@@ -52,7 +52,7 @@ Features might not be available, depending on your subscription plan.
 <div>
 
 ::: {.title}
-##### []{#idm45726181462592}How it works {#how-it-works .title}
+##### []{#idm45417500621120}How it works {#how-it-works .title}
 :::
 
 </div>
@@ -105,7 +105,7 @@ manager of the project.
 <div>
 
 ::: {.title}
-###### []{#idm45726181448896}npm {#npm .title}
+###### []{#idm45417500607424}npm {#npm .title}
 :::
 
 </div>
@@ -149,7 +149,7 @@ not installed by default).
 <div>
 
 ::: {.title}
-###### []{#idm45726181447648}Yarn {#yarn .title}
+###### []{#idm45417500606176}Yarn {#yarn .title}
 :::
 
 </div>
@@ -170,7 +170,7 @@ for Yarn v1.
 <div>
 
 ::: {.title}
-###### []{#idm45726181448528}Yarn workspaces {#yarn-workspaces .title}
+###### []{#idm45417500607056}Yarn workspaces {#yarn-workspaces .title}
 :::
 
 </div>
@@ -222,7 +222,7 @@ workspaces by providing the policy path:
 <div>
 
 ::: {.title}
-###### []{#idm45726181437024}Lerna {#lerna .title}
+###### []{#idm45417500595552}Lerna {#lerna .title}
 :::
 
 </div>
@@ -255,7 +255,7 @@ Alternatively, you can specify a script to automate scanning nested
 <div>
 
 ::: {.title}
-###### []{#idm45726181447968}CLI parameters for JavaScript {#cli-parameters-for-javascript .title}
+###### []{#idm45417500606496}CLI parameters for JavaScript {#cli-parameters-for-javascript .title}
 :::
 
 </div>
@@ -392,7 +392,7 @@ supported manifest files.
 <div>
 
 ::: {.title}
-###### []{#idm45726181472784}npm {#npm-1 .title}
+###### []{#idm45417500656688}npm {#npm-1 .title}
 :::
 
 </div>
@@ -423,7 +423,7 @@ We build the dependency tree based on these files:
 <div>
 
 ::: {.title}
-###### []{#idm45726181437424}Yarn {#yarn-1 .title}
+###### []{#idm45417500631312}Yarn {#yarn-1 .title}
 :::
 
 </div>
@@ -451,7 +451,7 @@ We build the dependency tree based on these files:
 <div>
 
 ::: {.title}
-###### []{#idm45726181437296}Yarn Workspaces {#yarn-workspaces-1 .title}
+###### []{#idm45417500551984}Yarn Workspaces {#yarn-workspaces-1 .title}
 :::
 
 </div>
@@ -499,7 +499,7 @@ Settings**]{.bold .bold} page for JavaScript.
 <div>
 
 ::: {.title}
-###### []{#idm45726181390368}Git settings for JavaScript {#git-settings-for-javascript .title}
+###### []{#idm45417500548848}Git settings for JavaScript {#git-settings-for-javascript .title}
 :::
 
 </div>
